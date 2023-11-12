@@ -192,7 +192,7 @@ def main():
                 print('Ending program... Goodbye.')
                 return
             else:
-                print('Invalid input. Please enter either "yes" or "no."')
+                print('\nInvalid input. Please enter either "yes" or "no.":\n')
 
 
 if __name__ == "__main__":
