@@ -9,12 +9,12 @@ Project 3 provided a practical experience in version control and collaborative d
 
 ### Files used
 1. The following file includes the bikeshare code from Project 2:
-bikeshare.py
+* bikeshare.py
 
 2. The following files were excluded from the repository by using .gitignore, as files were too large:
-chicago.csv
-new_york_city.csv
-washington.csv
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
