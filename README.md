@@ -1,8 +1,7 @@
 ### Date created
 12 November 2023
 
-### Project Title
-Project 3 - Post Your Work on GitHub
+# Project 3 - Post Your Work on GitHub
 
 ### Description
 Project 3 provided a practical experience in version control and collaborative development. The aim of the project was to refactor the bikeshare code from Project 2 using Git and GitHub. Through this project I gained practical experience in version control by forking, cloning, branching, and merging.
